@@ -1,0 +1,57 @@
+body
+{
+  background-color: lightblue;
+  margin: auto;
+}
+
+h1
+{
+	font-family: 'Londrina Shadow', cursive;
+	font-size: 64px;
+	text-align: center;
+	background-color: white;
+	margin:auto;
+	margin-bottom: 50px;
+	padding: 20px;
+	border: 20px;
+}
+
+h3
+{
+	color: white;
+	text-shadow: 2px 2px 4px black;
+	font-family: 'Londrina Solid', cursive;
+	font-size: 28px;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+.int
+{
+	text-align: center;
+	font-family: 'Londrina Solid', cursive;
+	font-size: 18px;
+	margin-bottom: 50px;
+}
+
+.main
+{
+	display: block;
+	margin: auto;
+	width: 80%;
+	max-width: 1500px;
+	text-align: center;
+}
+
+.box
+{
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+
+img
+{
+	
+}
